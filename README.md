@@ -26,6 +26,9 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## 🎮 Contra-Style GitHub Animation  
+![Contra Animation](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devops-methodology&limit=5&theme=dark&combine_all_yearly_contributions=true)
