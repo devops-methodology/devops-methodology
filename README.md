@@ -1,6 +1,6 @@
 ## 🌩️ Cloud DevOps Engineer  
+![Cloud DevOps Engineer](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/image.png)
 
-![Cloud DevOps Engineer](https://your-image-url.com/banner.png)
 
 
 # 💫 About Me:
