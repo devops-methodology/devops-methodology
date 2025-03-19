@@ -15,8 +15,8 @@
                                         
 ![Badge](https://img.shields.io/badge/Funky%20DevOps-%F0%9F%A4%96-orange?style=for-the-badge)
 🎨 🚀 💻
+https://imgur.com/APREWeG
 
-![image](https://github.com/user-attachments/assets/4a35bdac-9808-4fd7-a60e-9845dc0215a0)
 
 
 
