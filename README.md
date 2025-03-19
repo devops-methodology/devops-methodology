@@ -1,5 +1,6 @@
 ## 🌩️ Cloud DevOps Engineer  
-https://raw.githubusercontent.com/devops-methodology/devops-methodology/refs/heads/main/gettyimages-1354729632-612x612.webp
+![Cloud DevOps Engineer](https://raw.githubusercontent.com/devops-methodology/devops-methodology/main/gettyimages-1354729632-612x612.webp)
+
 
 # 💫 About Me:
 Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastructure |Building Practical Skills in Cloud Infrastructure | content creator |
