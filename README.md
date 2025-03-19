@@ -10,8 +10,7 @@
                                                                                            
                                             
                                                                                                                                                 
-                                                                                                                                                
- ## 🌩️ Cloud DevOps Engineer                                                                                                                                                  
+                                                                                                                                                 
                                         
 ![Badge](https://img.shields.io/badge/Funky%20DevOps-%F0%9F%A4%96-orange?style=for-the-badge)
 🎨 🚀 💻
