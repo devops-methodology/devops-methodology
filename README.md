@@ -15,7 +15,7 @@
                                         
 ![Badge](https://img.shields.io/badge/Funky%20DevOps-%F0%9F%A4%96-orange?style=for-the-badge)
 🎨 🚀 💻
-https://private-user-images.githubusercontent.com/133738728/424504001-0490a30b-70e9-42b3-85e7-4f7c00897436.gif?
+https://github.com/devops-methodology/update/blob/main/giphy.gif?raw=true
 # 💫 About Me:
 Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastructure |Building Practical Skills in Cloud Infrastructure | content creator |
 
