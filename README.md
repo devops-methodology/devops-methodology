@@ -28,7 +28,7 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ## 🐍 Contribution Snake  
-![Snake animation](https://github.com/devops-methodology/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/devops-methodology/devops-methodology/blob/main/dist/github-snake.svg)
 
 
 
