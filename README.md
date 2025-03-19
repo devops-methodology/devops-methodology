@@ -42,5 +42,6 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devops-methodology&icon=0&color=0)](https://visitcount.itsvg.in)
-https://github.com/devops-methodology/devops-methodology/blob/main/Untitled%20design.png?raw=true
+![Cloud DevOps Engineer](https://raw.githubusercontent.com/devops-methodology/devops-methodology/main/Untitled%20design.png)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
