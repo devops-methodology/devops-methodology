@@ -15,8 +15,7 @@
                                         
 ![Badge](https://img.shields.io/badge/Funky%20DevOps-%F0%9F%A4%96-orange?style=for-the-badge)
 🎨 🚀 💻
-https://private-user-images.githubusercontent.com/133738728/424504001-0490a30b-70e9-42b3-85e7-4f7c00897436.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIzOTIxMjYsIm5iZiI6MTc0MjM5MTgyNiwicGF0aCI6Ii8xMzM3Mzg3MjgvNDI0NTA0MDAxLTA0OTBhMzBiLTcwZTktNDJiMy04NWU3LTRmN2MwMDg5NzQzNi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxOVQxMzQzNDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MjE5Yjc1MjUxMTBmMWUzNjFhNzY3NzIyMzFmN2U5ZGE2NzE4MDRhNTk2ZmQ1OWM2OGZiMGIyMjIyODRhZmUyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.57IKVpMOxGlkrG1LsMgPXL_LyMA6y4-hYSc_4DXqYK4
-
+https://private-user-images.githubusercontent.com/133738728/424504001-0490a30b-70e9-42b3-85e7-4f7c00897436.gif?
 # 💫 About Me:
 Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastructure |Building Practical Skills in Cloud Infrastructure | content creator |
 
