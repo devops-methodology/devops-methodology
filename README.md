@@ -15,7 +15,7 @@
                                         
 ![Badge](https://img.shields.io/badge/Funky%20DevOps-%F0%9F%A4%96-orange?style=for-the-badge)
 🎨 🚀 💻
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW01MHF2Yms1NnVxODZkaHM0cWs5eWsxNGJ0ODE5bTRnbnhxeHdxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif
+https://github.com/devops-methodology/devops-methodology/blob/main/giphy.gif?raw=true
 
 
 # 💫 About Me:
