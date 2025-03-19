@@ -1,4 +1,7 @@
 name: Generate Snake Animation
+permissions:
+  contents: write
+
 
 on:
   schedule:
