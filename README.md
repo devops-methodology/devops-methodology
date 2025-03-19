@@ -1,5 +1,5 @@
 ## 🌩️ Cloud DevOps Engineer  
-![Cloud DevOps Engineer](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/image.png)
+![Cloud DevOps Engineer](https://raw.githubusercontent.com/devops-methodology/devops-methodology/main/image.png)
 
 
 
