@@ -15,7 +15,7 @@
                                         
 ![Badge](https://img.shields.io/badge/Funky%20DevOps-%F0%9F%A4%96-orange?style=for-the-badge)
 🎨 🚀 💻
-<blockquote class="imgur-embed-pub" lang="en" data-id="APREWeG"><a href="https://imgur.com/APREWeG">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[img]https://i.imgur.com/APREWeG.gif[/img]
 
 # 💫 About Me:
 Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastructure |Building Practical Skills in Cloud Infrastructure | content creator |
