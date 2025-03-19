@@ -1,3 +1,6 @@
+<img src="https://your-image-url.com/funky.gif" width="100%" />
+
+
 ## 🌩️ Cloud DevOps Engineer  
 
 ![Cloud DevOps Engineer](https://github.com/devops-methodology/devops-methodology/blob/main/pexels-realtoughcandy-11035393.jpg?raw=true)
