@@ -59,6 +59,101 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
 ---
 [![](https://visitcount.itsvg.in/api?id=devops-methodology&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Cloud DevOps Engineer](https://raw.githubusercontent.com/devops-methodology/devops-methodology/main/Untitled%20design.png)
+The Tale of the Sleep-Deprived DevOps Engineer
+
+Once upon a time in a land of blinking dashboards and endless YAML files, there was a DevOps engineer named Dave. He lived by a simple motto: "If it ain't in version control, it doesn't exist."
+
+One fateful Friday evening, as Dave was about to log off, a wild Slack message appeared:
+
+🚨 PRODUCTION IS DOWN! 🚨
+
+Panic ensued. The developers blamed the ops team, the ops team blamed the developers, and Jenkins just sat there quietly, failing builds.
+
+Dave, the hero he was, sprang into action. He SSH’d into the server, only to be met with… nothing.
+
+Literally nothing. The server was gone.
+
+After a frantic 10-minute investigation, he found out that someone (cough, probably Dave) had applied an Infrastructure as Code script that didn’t just update the server—it terminated it.
+
+“Okay, no problem,” he muttered, sweating. “Everything is in version control, right?”
+
+He confidently ran the restore script.
+
+Syntax error.
+
+He tried again.
+
+Module not found.
+
+At this point, his coffee cup was shaking in his hands. Then, he remembered—last week, he had migrated the Terraform state file to a “temporary” location.
+
+Where was that location?
+
+His laptop.
+
+His laptop that he just wiped that morning.
+
+Silence filled the virtual war room. He took a deep breath and did what any experienced DevOps engineer would do in such a crisis…
+
+He restarted the Slack thread and asked, "Hey, is anyone else having this issue?"
+
+Legend says the server was eventually rebuilt… on Monday morning.
+
+And that’s why, to this day, Dave always double-checks his scripts before running terraform apply. 😅
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 devops-methodology
 devops-methodology
 devops-methodology
