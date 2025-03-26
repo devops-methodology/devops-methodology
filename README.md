@@ -1,8 +1,8 @@
           
                                      
                                                                 
-                         
-                                            ![image](https://github.com/user-attachments/assets/2b8dcef9-bfb2-41d5-9f45-2fd3b61bfcc0)
+                         https://github.com/devops-methodology/devops-methodology/blob/main/Free%20(1).png?raw=true
+                      
 
                                                                   
                                                                                                                                                  
