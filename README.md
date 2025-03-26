@@ -49,7 +49,8 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
 ---
 [![](https://visitcount.itsvg.in/api?id=devops-methodology&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![DevOps Image](https://user-images.githubusercontent.com/YOUR_USER_ID/your-image.png)
+![DevOps Image](https://raw.githubusercontent.com/devops-methodology/devops-methodology/main/Free_1.png)
+
 
 
 
