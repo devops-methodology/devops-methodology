@@ -1,6 +1,5 @@
-          
-                       ![DevOps Image](https://raw.githubusercontent.com/devops-methodology/devops-methodology/main/Free_1.png)
 
+                                        <h1 align="center">Hey Everyone 👋, I'm devops-methodology</h1>
 
                                                                   
                                                                                                                                                  
