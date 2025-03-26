@@ -1,15 +1,10 @@
           
                                      
-                                                    _                                      
-                                                   (_ )                                    
-                                  _   _   _    __   | |    ___    _     ___ ___     __     
-                                 ( ) ( ) ( ) /'__`\ | |  /'___) /'_`\ /' _ ` _ `\ /'__`\   
-                                 | \_/ \_/ |(  ___/ | | ( (___ ( (_) )| ( ) ( ) |(  ___/   
-                                 `\___x___/'`\____)(___)`\____)`\___/'(_) (_) (_)`\____)   
-                                                                                           
-                                                                                           
+                                                                
+                         
                                             
-                                                                                                                                                
+                                                                        ![Free (1)](https://github.com/user-attachments/assets/ef74ea2b-511e-4661-a206-66dff1d024bf)
+                                                                        
                                                                                                                                                  
                                         
 ![Badge](https://img.shields.io/badge/Funky%20DevOps-%F0%9F%A4%96-orange?style=for-the-badge)
