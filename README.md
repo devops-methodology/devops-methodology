@@ -1,8 +1,7 @@
           
                                      
-                                                                
-                         https://github.com/devops-methodology/devops-methodology/blob/main/Free%20(1).png?raw=true
-                      
+                        ![DevOps Image](https://raw.githubusercontent.com/devops-methodology/devops-methodology/main/Free%20(1).png)
+
 
                                                                   
                                                                                                                                                  
