@@ -17,7 +17,6 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
 -  https://bento.me/devopsmethodology
 -  https://medium.com/@methodologydevops
 -  https://dev.to/devops_methodology_d2b67f
--  https://www.linkedin.com/in/devops-methodology-40b26b301
 -  https://bsky.app/profile/devopsmethodology.bsky.social
 -  https://methodologydevops.hashnode.dev
 -  https://stackoverflow.com/users/24438162/devops-methodology
