@@ -1,5 +1,5 @@
           
-                                     ![DevOps Image](https://raw.githubusercontent.com/devops-methodology/devops-methodology/main/Free_1.png)
+                         ![DevOps Image](https://raw.githubusercontent.com/devops-methodology/devops-methodology/main/Free_1.png)
 
 
                                                                   
