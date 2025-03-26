@@ -15,12 +15,12 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
 - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/devops-methodology)
 - 💬 Ask me about DevOps & Cloud DevOps
 - 📫 How to reach me - https://www.linkedin.com/in/devops-methodology-40b26b301
--  https://bento.me/devopsmethodology
--  https://medium.com/@methodologydevops
--  https://dev.to/devops_methodology_d2b67f
--  https://bsky.app/profile/devopsmethodology.bsky.social
--  https://methodologydevops.hashnode.dev
--  https://stackoverflow.com/users/24438162/devops-methodology
+- 👨‍💻 https://bento.me/devopsmethodology
+- 👨‍💻 https://medium.com/@methodologydevops
+- 👨‍💻 https://dev.to/devops_methodology_d2b67f
+- 👨‍💻https://bsky.app/profile/devopsmethodology.bsky.social
+- 👨‍💻https://methodologydevops.hashnode.dev
+- 👨‍💻 https://stackoverflow.com/users/24438162/devops-methodology
 
 
 
