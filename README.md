@@ -1,6 +1,6 @@
+<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
 
-                                        <h1 align="center">Hey Everyone 👋, I'm devops-methodology</h1>
-
+                                       
                                                                   
                                                                                                                                                  
                                         
