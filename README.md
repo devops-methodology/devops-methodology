@@ -13,7 +13,7 @@
 Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastructure |Building Practical Skills in Cloud Infrastructure | content creator |
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/devops-methodology)
-- GMAIL ----methodologydevops@gmail.com
+- GMAIL ----    methodologydevops@gmail.com
 - 💬 Ask me about DevOps & Cloud DevOps
 - 📫 How to reach me - https://www.linkedin.com/in/devops-methodology-40b26b301
 - 👨‍💻 https://bento.me/devopsmethodology
