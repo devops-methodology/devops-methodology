@@ -3,8 +3,7 @@
                                                                 
                          
                                             
-                                                                        ![Free (1)](https://github.com/user-attachments/assets/ef74ea2b-511e-4661-a206-66dff1d024bf)
-                                                                        
+                                                                   https://github.com/devops-methodology/devops-methodology/blob/main/Free%20(1).png?raw=true
                                                                                                                                                  
                                         
 ![Badge](https://img.shields.io/badge/Funky%20DevOps-%F0%9F%A4%96-orange?style=for-the-badge)
