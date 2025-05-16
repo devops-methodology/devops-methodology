@@ -65,6 +65,7 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
 
 
 
+![portfolio-1](https://github.com/user-attachments/assets/8d3423c1-2a78-4837-8da5-f919d9cde025)
 
 
 
