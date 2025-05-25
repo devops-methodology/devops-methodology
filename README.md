@@ -66,6 +66,59 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
   
 </div>
 
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="80" />
+  </a>
+
+  <!-- Kubernetes -->
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" height="80" />
+  </a>
+
+  <!-- CI/CD (Generic Icon) -->
+  <a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721614.png" height="80" />
+  </a>
+
+  <!-- Jenkins -->
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" height="80" />
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="80" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="80" />
+  </a>
+
+  <!-- Ansible -->
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height="80" />
+  </a>
+
+  <!-- Terraform -->
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="80" />
+  </a>
+
+  <!-- SonarQube -->
+  <a href="https://www.sonarqube.org/" target="_blank">
+    <img src="https://www.sonarsource.com/logos/sonarqube-logo.svg" height="80" />
+  </a>
+
+  <!-- Trivy -->
+  <a href="https://aquasecurity.github.io/trivy/" target="_blank">
+    <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/trivy-logo.png" height="80" />
+  </a>
+</div>
+
+
 
 ### 🎨 Design & Documentation  
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
