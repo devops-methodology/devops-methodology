@@ -37,11 +37,6 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
   <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" height="80" />
 </a>
 
-<!-- CI/CD (Generic Icon) -->
-<a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721614.png" height="80" />
-</a>
-
 
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
@@ -67,8 +62,7 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
 <a href="https://aquasecurity.github.io/trivy/" target="_blank">
   <img src="https://aquasecurity.github.io/trivy/images/logo.png" height="80" />
 </a>
- <!-- Insert the tool links/images here -->
-
+ 
 
  </a>
   <a href="https://www.docker.com/" target="_blank" >
