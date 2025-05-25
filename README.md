@@ -132,6 +132,13 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
   <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="70" />
 </p>
 
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/devops-methodology//)
+- 🌐 [Portfolio]https://bento.me/devopsmethodology
+- 📩 Email: methodologydevops@gmail.com
 
 
 
