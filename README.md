@@ -58,10 +58,10 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="80" />
 </a>
 
-<!-- Trivy -->
 <a href="https://aquasecurity.github.io/trivy/" target="_blank">
-  <img src="https://aquasecurity.github.io/trivy/images/logo.png" height="80" />
+  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/trivy-logo.png" height="80" />
 </a>
+
  
 
  </a>
