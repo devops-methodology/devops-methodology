@@ -73,6 +73,49 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
   
+---------
+<style>
+  .tech-icon {
+    transition: transform 0.3s ease;
+  }
+  .tech-icon:hover {
+    transform: scale(1.2);
+  }
+</style>
+
+<h3 align="center">🚀 Tools I Use</h3>
+
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="60" class="tech-icon" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" height="60" class="tech-icon" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" height="60" class="tech-icon" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="60" class="tech-icon" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="60" class="tech-icon" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height="60" class="tech-icon" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="60" class="tech-icon" />
+  </a>
+  <a href="https://www.sonarqube.org/" target="_blank">
+    <img src="https://www.sonarsource.com/logos/sonarqube-logo.svg" height="60" class="tech-icon" />
+  </a>
+  <a href="https://aquasecurity.github.io/trivy/" target="_blank">
+    <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/trivy-logo.png" height="60" class="tech-icon" />
+  </a>
+</p>
+
+---------
 
 
 
