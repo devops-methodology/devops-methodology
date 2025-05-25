@@ -119,6 +119,21 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
 ![portfolio-1](https://github.com/user-attachments/assets/8d3423c1-2a78-4837-8da5-f919d9cde025)
 
 
+---
+
+<p align="center">
+  🌟 🌟 🌟 <br/>
+  Thanks for visiting! Let's simplify DevOps together 🚀 <br/>
+  🌟 🌟 🌟
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="70" />
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="70" />
+</p>
+
+
+
 
 
 
