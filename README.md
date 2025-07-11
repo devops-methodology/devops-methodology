@@ -1,5 +1,26 @@
 <h1 align="center">Hey Everyone 👋, I'm Devops Methodology Welcome To My Repo</h1>
 
+import TextPressure from './TextPressure';
+
+function App() {
+  return (
+    <div style={{ width: '100vw', height: '100vh' }}>
+      <TextPressure
+        text="Compressa"
+        fontFamily="Compressa VF"
+        fontUrl="https://res.cloudinary.com/dr6lvwubh/raw/upload/v1529908256/CompressaPRO-GX.woff2"
+        width
+        weight
+        italic
+        stroke
+        scale
+        textColor="#FFFFFF"
+        strokeColor="#FF0000"
+        minFontSize={24}
+      />
+    </div>
+  );
+}
 
                                        
                                                                   
