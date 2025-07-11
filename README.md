@@ -131,7 +131,7 @@ Aspiring Cloud & DevOps Engineer | Hands-on with CI/CD, Networking & Infrastruct
   <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="70" />
   <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="70" />
 </p>
-
+https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-7xT9thl5RSWz03BvPMy0vhx9mKBTpf.png&w=1920&q=75
 ---
 
 ### 📫 Let's Connect
